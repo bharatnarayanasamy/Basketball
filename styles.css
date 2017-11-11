@@ -3,5 +3,11 @@ img {
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Impact";
+    color: blue;
+    background-color: lightblue;
+    background-image: url("https://i.cdn.turner.com/nba/nba/.element/img/1.0/teamsites/logos/teamlogos_500x500/okc.png");
+    background-position: left top;
+    background-size: 600px 600px;
+    background-repeat: no-repeat;
 }
