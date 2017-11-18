@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: "Impact";
+    color: black;
+    background-color: lightyellow;
+    background-image: url("https://i.cdn.turner.com/nba/nba/.element/img/1.0/teamsites/logos/teamlogos_500x500/gsw.png");
+    background-position: left top;
+    background-size: 600px 600px;
+    background-repeat: no-repeat;
+}
