@@ -4,3 +4,4 @@ function sayThatWasEasy() {
  }
  
 $("#easy").on("click", sayThatWasEasy);
+$("#Hello").on("click", sayThatWasEasy);

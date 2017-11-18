@@ -20,5 +20,12 @@ img {
   width:200px;
 }
 body {
-  font-family: "Impact";
+  text-align: center;
+    font-family: "Impact";
+    color: white;
+    background-color: lightblue;
+    background-image: url("https://www.lug2lug.eu/wp-content/uploads/2017/03/say-hello.jpg");
+    background-position: left top;
+    background-size: 1200px 1100px;
+    background-repeat: no-repeat;
 }
